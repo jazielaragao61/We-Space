@@ -1,0 +1,8 @@
+{
+  "name": "We Space - Hub de Reputação & Matchmaking Gamer",
+  "description": "Jogue com quem presta, mostre como você joga. Plataforma de recrutamento gamer com clipes verificados por telemetria de partida e reputação comportamental real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
